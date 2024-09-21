@@ -1,6 +1,6 @@
-<div style="text-align: center">
-    <h1>스프링 예외 처리</h1>
-</div>
+<h1 style="text-align: center">
+    스프링 예외 처리
+</h1>
 
 ### 프로젝트 환경
 
