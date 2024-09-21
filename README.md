@@ -1,4 +1,4 @@
-<h1 style="text-align: center">
+<h1 align="center">
     스프링 예외 처리
 </h1>
 
